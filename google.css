@@ -48,6 +48,11 @@ header a:hover {
 
 #appicon {
   vertical-align: middle;
+  opacity: 0.5;
+}
+
+#appicon:hover {
+  opacity: 1;
 }
 
 #sign-in-button {
