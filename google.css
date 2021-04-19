@@ -59,11 +59,13 @@ header a:hover {
   color: white;
   background-color: #4285f4;
   border: none;
-  height: 30px;
-  width: 70px;
+  /* padding: 9px 0px; */
+  height: 35px;
+  width: 96px;
   font-weight: bold;
-  border-radius: 2px;
+  border-radius: 5px;
   cursor: pointer;
+  line-height: 16px;
 }
 
 #google {
